@@ -27,3 +27,7 @@ function prependKitten(name){
   newArray2 = newArray2.concat(kittens)
   return newArray2
 }
+
+function removeLastKitten(){
+  var newArray3 = 
+}
